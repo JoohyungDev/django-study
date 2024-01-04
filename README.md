@@ -1,1 +1,1 @@
-# django-study
+무작정 따라하는 django 홈페이지 만들기
